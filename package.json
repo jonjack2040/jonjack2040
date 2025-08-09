@@ -1,0 +1,24 @@
+{
+  "name": "jonjack2040",
+  "version": "1.0.0",
+  "description": "<!-- **jonjack2040/jonjack2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonjack2040/jonjack2040.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jonjack2040/jonjack2040/issues"
+  },
+  "homepage": "https://github.com/jonjack2040/jonjack2040#readme",
+  "dependencies": {
+    "firebase": "^12.1.0"
+  }
+}
